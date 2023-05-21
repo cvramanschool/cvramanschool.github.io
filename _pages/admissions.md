@@ -11,5 +11,5 @@ We are thrilled to announce that admissions are now open for the academic year 2
 
 Apply now and secure a place for your child at our school for the upcoming academic year! Contact 9912231146 for more details. 
 
-<img src="/assets/custom_images/admissions.jpg" width="100%" alt="Ugadi 2023">
+<img src="/assets/custom_images/admissions.png" width="100%" alt="Ugadi 2023">
 
