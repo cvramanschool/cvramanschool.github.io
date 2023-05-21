@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <div>
-<img src="assets/custom_images/landing_page.png" width="60%" style="margin-left:10%; margin-right:10%">
+<img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
 </div>
 
 
