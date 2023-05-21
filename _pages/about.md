@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Husnabad, Telangana 505467</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to our school website! At CV Raman school, we are dedicated to providing a nurturing and inclusive educational environment for our students. With a strong focus on academic excellence and holistic development, we strive to empower our students to become well-rounded individuals who are prepared for the challenges of the future. Our dedicated team of experienced educators is committed to fostering a love for learning, promoting critical thinking skills, and encouraging creativity. We believe in creating a safe and supportive community where every student can thrive and reach their full potential. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our vision at our school is to inspire a lifelong passion for learning and empower our students to become responsible global citizens. We aim to create a learning environment that fosters intellectual curiosity, promotes ethical values, and encourages social awareness. We strive to provide our students with a solid foundation of knowledge, skills, and values, equipping them with the tools they need to navigate an ever-changing world. Through innovative teaching methods and a comprehensive curriculum, we aspire to develop critical thinkers, effective communicators, and compassionate individuals who can make positive contributions to society. We are committed to continuous improvement, embracing new educational advancements, and adapting to the needs of our students in order to fulfill our vision.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
