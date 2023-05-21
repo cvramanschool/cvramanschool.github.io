@@ -16,21 +16,52 @@ social: false  # includes social icons at the bottom of the page
 <img src="assets/custom_images/landing_page.jpg" width="90%" style="margin-left:10%; margin-right:10%">
 </div>
 -->
+<style>
+  #slideshow {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* Aspect ratio of 16:9 for responsive height */
+    overflow: hidden;
+  }
+
+  #slideshow img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  #slideshow + p {
+    margin-top: 20px;
+  }
+</style>
 
 <div id="slideshow">
-  <img src="assets/custom_images/admissions.png" width="100%" alt="Image A">
-  <img src="assets/custom_images/landing_page.jpg" width="100%" alt="Image B">
+  <img src="{{ site.baseurl }}/assets/custom_images/admissions.png" alt="Image A">
+  <img src="{{ site.baseurl }}/assets/custom_images/landing_page.jpg" alt="Image B">
 </div>
 
+
 <script>
-  var images = document.querySelectorAll("#slideshow img");
+  var slideshow = document.querySelector("#slideshow");
+  var images = slideshow.querySelectorAll("img");
   var currentImage = 0;
-  setInterval(function() {
+
+  function showNextImage() {
     images[currentImage].style.display = "none";
     currentImage = (currentImage + 1) % images.length;
     images[currentImage].style.display = "block";
-  }, 2000); // Change the duration (in milliseconds) between each image
+  }
+
+  setInterval(showNextImage, 2000); // Change the duration (in milliseconds) between each image
+
+  // Show the first image initially
+  images[currentImage].style.display = "block";
 </script>
+
 
 <br>
 <br>
