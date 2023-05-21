@@ -36,9 +36,8 @@ social: false  # includes social icons at the bottom of the page
 </style>
 
 <div id="slideshow">
-  <img src="{{ site.baseurl }}/assets/custom_images/admissions.png" width="70%" alt="Image A">
-  <img src="{{ site.baseurl }}/assets/custom_images/landing_page.jpg" width="70%" alt="Image B">
-  <img src="{{ site.baseurl }}/assets/custom_images/10results2023.jpg" width="70%"alt="Image B">
+  <img src="{{ site.baseurl }}/assets/custom_images/admissions.png" alt="Image A">
+  <img src="{{ site.baseurl }}/assets/custom_images/landing_page.jpg" alt="Image C">
 </div>
 
 
