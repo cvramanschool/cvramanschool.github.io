@@ -11,11 +11,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<!--
-<div>
-<img src="assets/custom_images/landing_page.jpg" width="90%" style="margin-left:10%; margin-right:10%">
-</div>
--->
+
 <style>
   #slideshow {
     position: relative;
@@ -30,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: cover;
   }
 
@@ -40,8 +36,9 @@ social: false  # includes social icons at the bottom of the page
 </style>
 
 <div id="slideshow">
-  <img src="{{ site.baseurl }}/assets/custom_images/admissions.png" alt="Image A">
-  <img src="{{ site.baseurl }}/assets/custom_images/landing_page.jpg" alt="Image B">
+  <img src="{{ site.baseurl }}/assets/custom_images/admissions.png" width="70%" alt="Image A">
+  <img src="{{ site.baseurl }}/assets/custom_images/landing_page.jpg" width="70%" alt="Image B">
+  <img src="{{ site.baseurl }}/assets/custom_images/10results2023.jpg" width="70%"alt="Image B">
 </div>
 
 
@@ -62,9 +59,6 @@ social: false  # includes social icons at the bottom of the page
   images[currentImage].style.display = "block";
 </script>
 
-
-<br>
-<br>
  Welcome to CV Raman school!
 
 We are delighted to extend a warm greeting to students, parents, and visitors to our esteemed institution. CV Raman school is a place where excellence in education meets a nurturing environment, fostering the growth and development of every individual.
