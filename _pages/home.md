@@ -1,13 +1,12 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: 
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
 #    <p>Husnabad, Telangana 505467</p>
