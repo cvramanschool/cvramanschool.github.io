@@ -11,9 +11,26 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<!--
 <div>
 <img src="assets/custom_images/landing_page.jpg" width="90%" style="margin-left:10%; margin-right:10%">
 </div>
+-->
+
+<div id="slideshow">
+  <img src="assets/custom_images/admissions.png" width="100%" alt="Image A">
+  <img src="assets/custom_images/landing_page.jpg" width="100%" alt="Image B">
+</div>
+
+<script>
+  var images = document.querySelectorAll("#slideshow img");
+  var currentImage = 0;
+  setInterval(function() {
+    images[currentImage].style.display = "none";
+    currentImage = (currentImage + 1) % images.length;
+    images[currentImage].style.display = "block";
+  }, 2000); // Change the duration (in milliseconds) between each image
+</script>
 
 <br>
 <br>
