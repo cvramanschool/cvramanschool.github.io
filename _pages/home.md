@@ -1,15 +1,9 @@
 ---
 layout: home
-title: home
+title: HOME
 permalink: /
 subtitle: 
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image_circular: false # crops the image to make it circular
-  address: >
-#    <p>Husnabad, Telangana 505467</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,17 +11,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-
-
 <div>
-<img src="assets/custom_images/landing_page.png" width="80%" style="margin-left:10%; margin-right:10%">
+<img src="assets/custom_images/landing_page.jpg" width="90%" style="margin-left:10%; margin-right:10%">
 </div>
 
-<p>
 <br>
-Welcome to our school website! At CV Raman school, we are dedicated to providing a nurturing and inclusive educational environment for our students. With a strong focus on academic excellence and holistic development, we strive to empower our students to become well-rounded individuals who are prepared for the challenges of the future. Our dedicated team of experienced educators is committed to fostering a love for learning, promoting critical thinking skills, and encouraging creativity. We believe in creating a safe and supportive community where every student can thrive and reach their full potential. 
-</p>
+<br>
+ Welcome to CV Raman school!
 
-<p>
-Our vision at our school is to inspire a lifelong passion for learning and empower our students to become responsible global citizens. We aim to create a learning environment that fosters intellectual curiosity, promotes ethical values, and encourages social awareness. We strive to provide our students with a solid foundation of knowledge, skills, and values, equipping them with the tools they need to navigate an ever-changing world. Through innovative teaching methods and a comprehensive curriculum, we aspire to develop critical thinkers, effective communicators, and compassionate individuals who can make positive contributions to society. We are committed to continuous improvement, embracing new educational advancements, and adapting to the needs of our students in order to fulfill our vision.
-</p>
+We are delighted to extend a warm greeting to students, parents, and visitors to our esteemed institution. CV Raman school is a place where excellence in education meets a nurturing environment, fostering the growth and development of every individual.
+
+At our school, we believe that education is not just about imparting knowledge but also about cultivating character, critical thinking skills, and a passion for lifelong learning. Our dedicated team of highly qualified educators is committed to providing a holistic learning experience that goes beyond textbooks, encouraging students to explore, discover, and realize their full potential.
+
+With state-of-the-art facilities and a rich curriculum, we strive to create an engaging and inclusive learning environment that caters to the unique needs and interests of each student. From the early years to higher grades, we offer a diverse range of academic programs, extracurricular activities, and support services that promote academic excellence, personal growth, and a well-rounded education.
+
+At our school, we recognize the importance of a strong partnership between home and school. We value open communication and encourage active participation from parents and guardians, as we believe that together we can provide the best possible educational experience for our students.
+
+We invite you to explore our website to learn more about our academic programs, faculty, facilities, and the vibrant school community we have created. Should you have any questions or require further information, please do not hesitate to reach out to us. We look forward to embarking on this educational journey with you and making a positive impact in the lives of our students.
+
+

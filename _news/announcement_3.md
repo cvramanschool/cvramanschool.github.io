@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: 10th results 2023
+date: 2023-05-15 
+inline: false
 related_posts: false
 ---
+<br>
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<img src="/assets/custom_images/10results2023.jpg" width="100%" alt="Results">
