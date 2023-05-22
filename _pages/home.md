@@ -58,7 +58,7 @@ social: false  # includes social icons at the bottom of the page
   images[currentImage].style.display = "block";
 </script>
 
- Welcome to CV Raman school!
+ Welcome to Sir C.V. Raman E/M High School!
 
 We are delighted to extend a warm greeting to students, parents, and visitors to our esteemed institution. CV Raman school is a place where excellence in education meets a nurturing environment, fostering the growth and development of every individual.
 
